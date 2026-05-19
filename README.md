@@ -1,46 +1,74 @@
-# 🚀 DevTrack - Developer Productivity Dashboard
+🚀 DevTrack - Developer Productivity Dashboard
 
 <div align="center">
-  ![Dashboard](./screenshots/Dashboard.png)
+  <img src="./screenshots/dashboard.png" alt="DevTrack Dashboard" width="900"/>
 </div>
 
-DevTrack is a modern, full-stack MERN application designed to help developers manage their tasks, track their deep-work time, analyze productivity metrics, and monitor their GitHub activity all in one unified, beautiful interface.
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Overview
+
+DevTrack is a modern full-stack MERN application designed to help developers manage tasks, track deep-work sessions, analyze productivity metrics, and monitor GitHub activity — all within a clean and responsive dashboard.
 
 ---
 
 ## 🌟 Live Demo
 
-- **Frontend (Vercel):** [https://dev-track-project.vercel.app](https://dev-track-project.vercel.app)
-- **Backend (Render):** `https://devtrack-project.onrender.com`
+- **Frontend (Vercel):** https://dev-track-project.vercel.app
+- **Backend (Render):** https://devtrack-project.onrender.com
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-- **🔐 Secure Authentication:** JWT-based login and registration with bcrypt password hashing.
-- **📋 Kanban Task Board:** Create, edit, and organize tasks by priority (Low, Medium, High) and status (To Do, In Progress, Done).
-- **⏱️ Productivity Timer:** Track deep-work sessions with a built-in stopwatch that logs history automatically.
-- **📊 Interactive Analytics:** Visualize task completion rates and time-tracked over the last 7 days using Recharts.
-- **🐙 GitHub Integration:** Search any GitHub username to instantly pull profile stats and popular repositories via the GitHub REST API.
-- **🎨 Modern UI/UX:** Fully responsive design built with Tailwind CSS, featuring glassmorphism elements and a sleek indigo/violet theme.
+- 🔐 Secure JWT Authentication with bcrypt password hashing
+- 📋 Kanban Task Management System
+- ⏱️ Deep Work Productivity Timer
+- 📊 Interactive Productivity Analytics Dashboard
+- 🐙 GitHub Profile & Repository Integration
+- 🎨 Modern Responsive UI with Tailwind CSS
+- ⚡ Fast Frontend Build using Vite
+
+---
+
+# 📸 Screenshots
+
+## Dashboard Overview
+
+<div align="center">
+  <img src="./screenshots/dashboard.png" alt="Dashboard" width="90%" />
+</div>
 
 ---
 
-## 📸 Screenshots
+## Task Management & Productivity Timer
 
-### Task Management (Kanban Board)
-![New Task](./screenshots/New%20Task.png)
-
-### Productivity Timer
-![Productivity Timer](./screenshots/Productivity%20Timer.png)
-
-### Productivity Analytics
-![Analytics](./screenshots/Analytics.png)
-
-### GitHub Integration
-![GitHub](./screenshots/Github.png)
+<p align="center">
+  <img src="./screenshots/new-task.png" alt="Task Board" width="45%" />
+  <img src="./screenshots/productivity-timer.png" alt="Productivity Timer" width="45%" />
+</p>
 
 ---
+
+## Analytics & GitHub Integration
+
+<p align="center">
+  <img src="./screenshots/analytics.png" alt="Analytics" width="45%" />
+  <img src="./screenshots/github.png" alt="GitHub Integration" width="45%" />
+</p>
+
 
 ## 🛠️ Tech Stack
 
