@@ -1,7 +1,7 @@
 🚀 DevTrack - Developer Productivity Dashboard
 
 <div align="center">
-  <img src="./screenshots/dashboard.png" alt="DevTrack Dashboard" width="900"/>
+  <img src="./screenshots/Dashboard.png" alt="DevTrack Dashboard" width="900"/>
 </div>
 
 <br/>
@@ -48,16 +48,23 @@ DevTrack is a modern full-stack MERN application designed to help developers man
 ## Dashboard Overview
 
 <div align="center">
-  <img src="./screenshots/dashboard.png" alt="Dashboard" width="90%" />
+  <img src="./screenshots/Dashboard.png" alt="Dashboard" width="90%" />
 </div>
+
+---
+## New Task and Profile
+<p align="center">
+  <img src="./screenshots/New Task.png" alt="New Task" width="45%" />
+  <img src="./Screenshots/Profile.png" alt="Profile" width="45%" />
+</p>
 
 ---
 
 ## Task Management & Productivity Timer
 
 <p align="center">
-  <img src="./screenshots/new-task.png" alt="Task Board" width="45%" />
-  <img src="./screenshots/productivity-timer.png" alt="Productivity Timer" width="45%" />
+  <img src="./screenshots/Task.png" alt="Task Board" width="45%" />
+  <img src="./screenshots/Timer.png" alt="Productivity Timer" width="45%" />
 </p>
 
 ---
@@ -65,8 +72,8 @@ DevTrack is a modern full-stack MERN application designed to help developers man
 ## Analytics & GitHub Integration
 
 <p align="center">
-  <img src="./screenshots/analytics.png" alt="Analytics" width="45%" />
-  <img src="./screenshots/github.png" alt="GitHub Integration" width="45%" />
+  <img src="./screenshots/Analytics.png" alt="Analytics" width="45%" />
+  <img src="./screenshots/Github.png" alt="GitHub Integration" width="45%" />
 </p>
 
 
