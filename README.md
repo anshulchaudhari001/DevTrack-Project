@@ -1,6 +1,8 @@
 # 🚀 DevTrack - Developer Productivity Dashboard
 
-![DevTrack Dashboard](./screenshots/Dashboard.png)
+<div align="center">
+  <img src="screenshots/Dashboard.png" alt="DevTrack Dashboard" width="100%" />
+</div>
 
 DevTrack is a modern, full-stack MERN application designed to help developers manage their tasks, track their deep-work time, analyze productivity metrics, and monitor their GitHub activity all in one unified, beautiful interface.
 
@@ -27,16 +29,16 @@ DevTrack is a modern, full-stack MERN application designed to help developers ma
 ## 📸 Screenshots
 
 ### Task Management (Kanban Board)
-![Tasks](./screenshots/Task.png)
+<img src="screenshots/Task.png" alt="Tasks" width="100%" />
 
 ### Productivity Timer
-![Timer](./screenshots/Timer.png)
+<img src="screenshots/Timer.png" alt="Timer" width="100%" />
 
 ### Productivity Analytics
-![Analytics](./screenshots/Analytics.png)
+<img src="screenshots/Analytics.png" alt="Analytics" width="100%" />
 
 ### GitHub Integration
-![GitHub](./screenshots/Github.png)
+<img src="screenshots/Github.png" alt="GitHub" width="100%" />
 
 ---
 
